@@ -1,0 +1,25 @@
+[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 710 È«²¿,   1 running, 709 sleeping,   0 stopped,   0 zombie
+  ÎïÀíÄÚ´æ:      7.4G È«²¿,      7.1G ÒÑÓÃ,      297M Ê£Óà,      9.0M »º³åÇø
+  ÐéÄâÄÚ´æ:      4.0G È«²¿,      1.1G ÒÑÓÃ,      2.8G Ê£Óà,      2.8G »º´æ
+800%cpu  10%user   0%nice  13%sys 771%idle   0%iow   3%irq   3%sirq   0%host
+[7m  PID USER         PR  NI VIRT Õ¼ÓÃ SHR S %CPU  %ÎïÀíÄÚ´æ     TIME+ ARGS            [0m
+20678 u0_a222      16  -4  38G 854M 640M S  3.2  11.1   8:34.95 com.tencent.mm
+ 1638 system       18  -2  13G 571M 411M S  3.2   7.4 151:37.19 system_server
+12628 u0_a298      20   0  11G 515M 128M S  0.0   6.7   2:13.21 moe.matsuri.lit+
+19821 u0_a222      16  -4  12G 480M 357M S  0.0   6.2   0:06.93 com.tencent.mm:+
+ 2167 u0_a73       20   0  11G 406M 324M S  0.0   5.3  15:09.23 com.android.sys+
+19839 u0_a222      16  -4  11G 388M 310M S  0.0   5.0   0:03.46 com.tencent.mm:+
+ 2487 u0_a107      20   0  10G 366M 282M S  0.0   4.7   7:49.96 com.huawei.andr+
+11338 system       20   0 6.4G 366M 273M S  0.0   4.7   0:19.82 com.android.set+
+20791 u0_a222      20   0 7.3G 318M 275M S  0.0   4.1   1:15.21 com.tencent.mm:+
+28097 u0_a158      20   0 8.5G 291M 251M S  0.0   3.8   0:12.06 com.android.gal+
+ 8075 u0_a15       20   0 6.8G 283M 205M S  0.0   3.7   0:06.78 com.android.con+
+14957 u0_a192      20   0 1.8G 261M 195M S  0.0   3.4   0:27.16 com.android.ven+
+12544 u0_a298      20   0  12G 256M 182M S  0.0   3.3   0:23.01 moe.matsuri.lite
+29644 system       20   0 7.6G 244M 198M S  0.0   3.2   0:09.40 com.huawei.syst+
+ 4321 u0_a62       20   0 6.9G 241M 202M S  0.0   3.1   0:43.93 com.android.mms
+25773 u0_a191      20   0 6.3G 222M 170M S  0.0   2.9   2:11.10 com.google.andr+
+25810 u0_a191      20   0 6.2G 217M 166M S  0.0   2.8   2:30.67 com.google.andr+
+18328 u0_a158      20   0 5.8G 213M 183M S  0.0   2.7   2:02.25 com.android.gal+
+17549 u0_a40       20   0 6.2G 204M 160M S  0.0   2.6   0:08.08 com.huawei.appm+
+ 2498 u0_a93        1 -19 8.1G 197M 152M S  0.0   2.5  10:27.33 com.huawei.hwid+[?25h[0m[1000;1H[K[?25h[?25h[0m[1000;1H[K
